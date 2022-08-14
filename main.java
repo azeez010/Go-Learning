@@ -1,0 +1,3 @@
+class Main {
+    Main(Args[])
+} 
